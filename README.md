@@ -1,4 +1,3 @@
-# Yubina-Ddos-Greensyn-Source
-GreenSyn source code . 
+Yubina-greensyn
 
-Write to me yubina4309@gmail.com 
+Original author: yubina4309@gmail.com 
